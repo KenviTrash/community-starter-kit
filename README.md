@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Creating a program where a person can order pizza and get it delivered to their door.
 
 ## What it does
-
-FEATURES PLACEHOLDER
+- places pizza order
+- tracks the process of the order
+- tracks the delivery man
 
 ## Getting started
 
